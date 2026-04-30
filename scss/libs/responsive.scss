@@ -1,0 +1,13 @@
+$x-small: 320px!default;
+$small: 425px!default;
+$medium: 768px!default;
+$large: 1024px!default;
+
+$x-small-up: "only screen and (min-width: #{$x-small})";
+$x-small-down: "only screen and (max-width: #{$x-small})";
+$small-up: "only screen and (min-width: #{$small})";
+$small-down: "only screen and (max-width: #{$small})";
+$medium-up: "only screen and (min-width: #{$medium})";
+$medium-down: "only screen and (max-width: #{$medium})";
+$large-up: "only screen and (min-width: #{$large})";
+$large-down: "only screen and (max-width: #{$large})";
