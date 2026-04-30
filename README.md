@@ -53,7 +53,7 @@ npm install
 ## Development
 
 ```bash
-# Start dev server (http://localhost:5173)
+# Start dev server
 npm run dev
 ```
 
