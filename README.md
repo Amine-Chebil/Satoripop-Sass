@@ -48,9 +48,9 @@ cd Satoripop-Sass
 
 # Install dependencies
 npm install
-```
 
 Also, open fonts folder and install them.
+```
 
 ## Development
 
