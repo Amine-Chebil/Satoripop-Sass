@@ -25,11 +25,7 @@ $font-tech: 'Minimo', sans-serif;
 
 @font-face {
     font-family: 'Minimo';
-    src: url('Minimo-Regular.eot');
-    src: url('Minimo-Regular.eot?#iefix') format('embedded-opentype'),
-        url('Minimo-Regular.woff2') format('woff2'),
-        url('Minimo-Regular.woff') format('woff'),
-        url('Minimo-Regular.ttf') format('truetype');
+    src: url('/fonts/Minimo.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -37,23 +33,23 @@ $font-tech: 'Minimo', sans-serif;
 
 @font-face {
     font-family: 'Comfortaa';
-    src: url('Comfortaa-Regular.eot');
-    src: url('Comfortaa-Regular.eot?#iefix') format('embedded-opentype'),
-        url('Comfortaa-Regular.woff2') format('woff2'),
-        url('Comfortaa-Regular.woff') format('woff'),
-        url('Comfortaa-Regular.ttf') format('truetype');
+    src: url('/fonts/Comfortaa.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
+    font-family: 'Comfortaa';
+    src: url('/fonts/Comfortaa-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-Regular.eot');
-    src: url('OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
-        url('OpenSans-Regular.woff2') format('woff2'),
-        url('OpenSans-Regular.woff') format('woff'),
-        url('../fonts/OpenSans.ttf') format('truetype');
+    src: url('/fonts/OpenSans.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
