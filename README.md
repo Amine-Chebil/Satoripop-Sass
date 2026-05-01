@@ -43,10 +43,10 @@ Or [download directly](https://nodejs.org/)
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Amine-Chebil/Satoripop-Sass.git
 cd Satoripop-Sass
 
-# Install dependencies (automatically installs Vite v4.4.0 and Sass v1.63.6)
+# Install dependencies
 npm install
 ```
 
