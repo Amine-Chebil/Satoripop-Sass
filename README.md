@@ -50,6 +50,8 @@ cd Satoripop-Sass
 npm install
 ```
 
+Also, open fonts folder and install them.
+
 ## Development
 
 ```bash
